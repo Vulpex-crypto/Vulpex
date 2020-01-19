@@ -51,7 +51,7 @@ Guarda el archivo y ejecutelo.
 
 Extraer bloques en linux 
 
-Cree un archivo .sh llamado mine.sh en la misma carpeta donde extrajo vulpex-cli.exe y pegue el siguiente texto en mine.sh
+Cree un archivo .sh llamado mine.sh en la misma carpeta donde extrajo vulpex-cli y pegue el siguiente texto en mine.sh
 
 #!/bin/bash
 c=1
